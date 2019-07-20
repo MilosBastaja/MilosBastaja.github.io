@@ -321,6 +321,10 @@ body {
   margin-top: 60px;
 }
 
+.comments-box h3 {
+  text-align: center;
+}
+
 .main-comments {
   display: grid;
   margin: 15px;
@@ -373,10 +377,6 @@ body {
 }
 
 .normal-comments h3 {
-  text-align: center;
-}
-
-.comments-box h3 {
   text-align: center;
 }
 

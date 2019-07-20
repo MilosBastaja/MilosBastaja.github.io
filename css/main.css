@@ -376,6 +376,11 @@ body {
   text-align: center;
 }
 
+.comments-box h3 {
+  text-align: center;
+}
+
+
 .single-comment {
   margin-bottom: 30px;
   border-bottom: 1px solid #fff;
